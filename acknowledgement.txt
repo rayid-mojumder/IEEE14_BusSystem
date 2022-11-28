@@ -1,0 +1,5 @@
+This research is motivated by the work of Prof. Luigi Vanfretti. 
+At RPI, he leads research projects in his laboratory and with his research team, ALSETLab (https://alsetlab.github.io/), on "electrified systems". 
+
+You may follow the detailed works at his GitHub repository:
+https://github.com/lvanfretti
