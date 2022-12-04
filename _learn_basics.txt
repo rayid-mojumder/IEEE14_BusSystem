@@ -1,0 +1,2 @@
+https://builtin.com/data-science/supervised-machine-learning-classification
+https://www.projectpro.io/article/7-types-of-classification-algorithms-in-machine-learning/435
