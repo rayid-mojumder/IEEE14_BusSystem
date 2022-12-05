@@ -5,3 +5,6 @@ https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-pred
 <<For neural network learning>>
 https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
 https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
+
+<<Get the best hidden layer size and neuron size>>
+https://stackoverflow.com/questions/11193147/determining-the-proper-amount-of-neurons-for-a-neural-network
