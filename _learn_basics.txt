@@ -1,3 +1,7 @@
 https://builtin.com/data-science/supervised-machine-learning-classification
 https://www.projectpro.io/article/7-types-of-classification-algorithms-in-machine-learning/435
 https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/
+
+<<For neural network learning>>
+https://towardsdatascience.com/designing-your-neural-networks-a5e4617027ed
+https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af
