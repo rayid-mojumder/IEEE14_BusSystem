@@ -8,3 +8,6 @@ https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-9
 
 <<Get the best hidden layer size and neuron size>>
 https://stackoverflow.com/questions/11193147/determining-the-proper-amount-of-neurons-for-a-neural-network
+
+<<Learn about IEEE-14 bus system>>
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiBlbfn-4H8AhW5S2wGHawhDSUQFnoECAoQAQ&url=https%3A%2F%2Fwww.pscad.com%2Fknowledge-base%2Fdownload%2Fieee_14_bus_technical_note.pdf&usg=AOvVaw2b3eBFJv5iXYv_sSKILUJU
